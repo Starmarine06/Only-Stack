@@ -1,0 +1,1 @@
+execute at @a run data merge entity @e[type=item,limit=1,nbt={Item:{count:1}}] {Item:{count:64}}
